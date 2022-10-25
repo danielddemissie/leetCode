@@ -3,7 +3,11 @@
 #include <unordered_map>
 using namespace std;
 
-
+/*
+    Contains Duplicate Solution 
+    Runtime : 208ms
+    Memory Usage : 51.40MB
+*/
 class Solution{
     public:
         bool containsDuplicate(vector<int>& nums){
@@ -20,6 +24,9 @@ class Solution{
         }
 };
 
+/*
+    Test Contains Duplicate Solution
+*/
 int main(){
     Solution sol;
     vector<int> test_nums;
