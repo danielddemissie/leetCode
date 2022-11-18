@@ -26,7 +26,7 @@ class Solution{
 };
 
 /*
-    Test Two Array Intersection II Solution
+     Best time to buy and sell stock Solution 
 */
 int main(){
     Solution sol;
